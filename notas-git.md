@@ -19,7 +19,7 @@ git clone link-do-seu-repositório
 
 git remote add --track master upstream (link do repositório original) fetch upstream
 
-exemplo: git remote add --track master upstream https://github.com/squad-rita-levi-montalcini/praticando-git.git fetch upstream
+exemplo: git remote add --track master upstream [https://github.com/squad-rita-levi-montalcini/praticando-git.git] fetch upstream
 
 6º Criar nova branch
 git checkout -b (nome da nova branch) 
